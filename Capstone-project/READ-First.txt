@@ -1,0 +1,8 @@
+Install xampp
+Copy Files To Your xampp htdocs
+Start the Apache server on xampp
+Start MySQL as well
+Visit http://localhost/phpmyadmin/ on your browser.
+Then
+Create a Database named: capstone
+Click Import from the Phpmyadmin navigation and choose the sql file provided named capstone.sql click go and open your project on the browser
